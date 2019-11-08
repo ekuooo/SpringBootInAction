@@ -13,6 +13,7 @@
 
     <modules>
         <module>springboot-shiro</module>
+        <module>technology-demos</module>
     </modules>
 
 
